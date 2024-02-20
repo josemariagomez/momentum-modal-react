@@ -22,7 +22,7 @@ npm i momentum-modal-react
 
 ## Setup
 
-[Modal](https://github.com/lepikhinb/momentum-modal-plugin) is a **headless** component, meaning you have full control over its look, whether it's a modal dialog or a slide-over panel. You are free to use any 3rd-party solutions to power your modals, such as [Headless UI](https://headlessui.com/) or [Radix](https://www.radix-ui.com/).
+[Modal](https://github.com/josemariagomez/momentum-modal-react) is a **headless** component, meaning you have full control over its look, whether it's a modal dialog or a slide-over panel. You are free to use any 3rd-party solutions to power your modals, such as [Headless UI](https://headlessui.com/) or [Radix](https://www.radix-ui.com/).
 
 Put the `Modal` component somewhere within the layout. Also, you can pass the component resolver to the `Modal` component, or use it globally.
 
